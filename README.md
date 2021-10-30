@@ -2,7 +2,7 @@
 Analysis raw data from Chulalongkorn Library and create a visualization using dashboard
 
 Just a sample code of creating a dash board
-some csv file are too big i can't upload here
+some csv file are too big i can't upload here /also not public data (not sure)
 
 Checkout the dashboard:
 https://centralchulalibrary.herokuapp.com/
